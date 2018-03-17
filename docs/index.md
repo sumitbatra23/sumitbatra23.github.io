@@ -54,7 +54,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">Sumit Batra</h2>
     <hr style="width:200px" class="w3-opacity">
-    <p> Been trying to get into everything, I've been great at motivating people, public relations, etc. I'm also into front-end Web Development, a bit of Table Tennis, Stand-up comedy and what else!  
+    <p> Well for the record, I've been great at motivating people, public relations, etc. I'm also into front-end Web Development, a bit of Table Tennis, Stand-up comedy and what else!  
     </p>
     <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
     <p class="w3-wide">Public Speaking</p>
@@ -159,7 +159,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </div>
   
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
-    <a href="http://www.facebook.com/sumit.batra.1997" target="blank"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+    <a href="http://www.facebook.com/starkedup" target="blank"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
     <a href="http://www.instagram.com/starked_up" target="blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
     <a href="https://www.linkedin.com/in/sumit-batra-382192140/" target="blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
     <a href="https://github.com/sumitbatra23" target="blank"><i class="fa fa-github w3-hover-opacity"></i></a>
