@@ -54,8 +54,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">Sumit Batra</h2>
     <hr style="width:200px" class="w3-opacity">
-    <p> Well for the record, I've been great at motivating people, public relations, etc. I'm also into front-end Web Development, a bit of Table Tennis, Stand-up comedy and what else!  
+    <p> Well for the record, I've been great at motivating people, public relations, etc. I'm also into front-end Web Development, a bit of Table Tennis, Stand-up comedy and what else! I like meeting new people, I've been trying to cook as well, and then there are other hobbies like jogging and listening to edm! Amazing, right? 
     </p>
+    <p><i>"Confidence is the food for the wise and liquor for the fool."</i></p>
     <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
     <p class="w3-wide">Public Speaking</p>
     <div class="w3-white">
